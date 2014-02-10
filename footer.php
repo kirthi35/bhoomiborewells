@@ -23,37 +23,38 @@
    <script type="text/javascript">
      
      function validation (){
-      var name=document.contact.username.value;
-      var mobile=document.contact.mobile.value;
-      var email=document.contact.email.value;
-      var message=document.contact.message.value;
+      var name=document.contact.username;
+      var mobile=document.contact.mobile;
+      var email=document.contact.email;
+      var message=document.contact.message;
 
-      if(username=="")
+      if(name.value=="")
       {
         name.placeholder="Enter the name";
         name.focus();
         name.className="input";
         return false;
       }
-      if(mobile=="")
+      if(mobile.value=="")
       {
         mobile.placeholder="Enter the mobile no";
         mobile.focus();
         mobile.className="input";
         return false;
       }
-      if(email=""){
+      if(email.value=""){
         email.placeholder="Enter the email id";
         email.focus();
         email.className="input";
         return false;
       }
-      if(message=""){
+      if(message.value=""){
         message.placeholder="Enter the message";
         message.focus();
         message.className="input"
         return false;
       }
+
       return true;
 
      }

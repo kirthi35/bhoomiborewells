@@ -5,7 +5,7 @@
    <?php
       require('header.php');
    ?>
-   <META http-equiv="refresh" content="3;URL=http://www.bhoomiborewells.in">
+   <META http-equiv="refresh" content="5;URL=http://www.bhoomiborewells.in">
 
     <title>Contact Bhoomi Bore Wells | Bore Wells in Banglore | No 1 Borewells in Banglore | Best Bore wells in Banglore</title>
 

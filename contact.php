@@ -29,7 +29,7 @@
         <div class="row">
           <div class="large-12 small-12 columns">
              <label>Name</label>
-             <input type="text"name="name" placeholder="Enter your Name" />
+             <input type="text"name="username" placeholder="Enter your Name" />
           </div>
           <div class="large-12 small-12 columns">
              <label>Mobile</label>

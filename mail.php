@@ -9,7 +9,7 @@
         $errors .= "\n Error: all fields are required";
     }
      
-    $name = $_POST['name']; 
+    $name = $_POST['username']; 
     $email_address = $_POST['email']; 
      $mobile = $_POST['mobile']; 
     $message = $_POST['message']; 

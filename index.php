@@ -6,9 +6,10 @@
       require('header.php');
    ?>
    
-    <title>Bhoomi Bore Wells  one of the leading reliable and reputed Hitech Borewell Drilling Engineers and Technologists. Comprising of highly qualified, experienced engineers and drilling experts and skilled technical staff with profound working knowledge in drilling, construction and development of Borewells. Our business operations are around Bengaluru city. | Bore Wells in Banglore | No 1 Borewells in Banglore | Best Bore wells in Banglore</title>
-
-    
+    <TITLE>Bhoomi Bore Wells  one of the leading reliable and reputed Hitech Borewell Drilling Engineers and Technologists. Comprising of highly qualified, experienced engineers and drilling experts and skilled technical staff with profound working knowledge in drilling, construction and development of Borewells. Our business operations are around Bengaluru city. | Bore Wells in Banglore | No 1 Borewells in Banglore | Best Bore wells in Banglore</TITLE>
+<META NAME="description" CONTENT="Bhoomi Bore Wells has more than three decades of rich experience in Drilling and construction of Borewells and Tubewells. And Specialised drilling Professionals for civil, construction Engineering and Geo Environment study projects.Bhoomi bore wells is one of the reliable bore well driller\'s in bangalore city">
+<META NAME="keywords" CONTENT="borewells in bangalore, drilling contractor's in bangalore, Bhoomiborewells, borewell dillers in bangalore">
+<META NAME="robot" CONTENT="index,follow">
   </head>
   <body>
   <?php require('logo.php');?>
